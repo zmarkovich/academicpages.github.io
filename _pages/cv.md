@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-{% pdf "/files/pdf/Markovich CV (Fall 2021).pdf" %}
+{% include "/files/pdf/Markovich CV (Fall 2021).pdf" %}
