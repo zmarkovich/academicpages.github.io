@@ -9,6 +9,10 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
+source "https://rubygems.pkg.github.com/mihajlonesic" do
+  gem "jekyll-pdf-embed", "1.1.1"
+end
+
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
