@@ -9,8 +9,14 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+“Answering Complex Causal Queries With the Maximum Causal Set Effect”, Accepted at Neural
+Information Processing Systems
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+“Does Conjoint Analysis Mitigate Social Desirability Bias?” (with Yusaku Horiuchi and Teppei
+Yamamoto), Forthcoming at Political Analysis
+
+“More Money, More Turnout? Minimum Wage Increases and Voting” (with Ariel White), Forthcoming
+at The Journal of Politics
+
+"Student Sorting and Implications for Grade Inflation" (with Michael Herron). Rationality and Society
+29, no. 3 (2017): 355-386. 
