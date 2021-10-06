@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-{% include "/files/pdf/Markovich CV (Fall 2021).pdf" %}
+<embed src="zmarkovich.github.io/files/Markovich CV (Fall 2021).pdf" type="application/pdf" />
+{% include "" %}
