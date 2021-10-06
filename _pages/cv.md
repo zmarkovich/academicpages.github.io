@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="zmarkovich.github.io/files/Markovich CV (Fall 2021).pdf" type="application/pdf" />
+#<embed src="zmarkovich.github.io/files/Markovich CV (Fall 2021).pdf" type="application/pdf" />
