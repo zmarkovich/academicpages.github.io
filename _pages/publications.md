@@ -19,4 +19,4 @@ Yamamoto), Forthcoming at Political Analysis [pdf](https://zmarkovich.github.io/
 at The Journal of Politics [pdf](https://zmarkovich.github.io/files/MinWage_draft1forweb.pdf)
 
 "Student Sorting and Implications for Grade Inflation" (with Michael Herron). Rationality and Society
-29, no. 3 (2017): 355-386. [pdf](https://zmarkovich.github.io/files/student_sorting.pdf
+29, no. 3 (2017): 355-386. [pdf](https://zmarkovich.github.io/files/student_sorting.pdf)
