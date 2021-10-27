@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 “Answering Complex Causal Queries With the Maximum Causal Set Effect”, Accepted at Neural
-Information Processing Systems
+Information Processing Systems [pdf](https://zmarkovich.github.io/files/main.pdf)
 
 “Does Conjoint Analysis Mitigate Social Desirability Bias?” (with Yusaku Horiuchi and Teppei
 Yamamoto), Forthcoming at Political Analysis [pdf](https://zmarkovich.github.io/files/does-conjoint-analysis-mitigate-social-desirability-bias.pdf)
