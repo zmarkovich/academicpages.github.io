@@ -8,7 +8,7 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
+ 
 “Causal Inference With Bundled Treatments” [pdf](https://zmarkovich.github.io/files/bundled_treatments.pdf)
 
 “Answering Complex Causal Queries With the Maximum Causal Set Effect”, Neural
